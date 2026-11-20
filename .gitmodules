@@ -467,3 +467,6 @@
 [submodule "steadfast"]
 	path = steadfast
 	url = https://github.com/ello-lithuania/steadfast-zola.git
+[submodule "wiki-like"]
+	path = wiki-like
+	url = https://github.com/aterenin/wiki-like.git
